@@ -23,18 +23,33 @@ LES PROPOSITIONS DE L'ÉNONCÉ
 ● Un Médecin est consulté par un Patient
 
 ● L’acte médical est crée suite à une consultation
+
 ● l’Acte médical possède un tarif
+
 ● Liste_Tarif répertorie les tarifs
+
 ● Le Médecin calcule le prix
+
 ● Le Médecin effectue Une Prestation
+
 ● Le patient paye une consultation
+
 ● Le patient est rappelé en cas de non paiement
+
 ● La Prestation constitue le revenue du médecin
+
 ● Un patient souffre d’un certain nombre d’affections
+
 ● Tout patient a une profession
+
 ● Tout patient a un sexe
+
 ● Tout patient a une date de naissance
+
 ● Affection appartient à une classe
+
 ● Toute affection appartient à une classe
+
 ● La Classe d’affections possède un taux de remboursement
+
 ● Médicament prescrit des médicaments aux patients
