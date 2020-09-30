@@ -1,4 +1,4 @@
-# CabineMedicalSGBD
+# CabinetMedicalSGBD
 
 
 CADRE DU PROJET
