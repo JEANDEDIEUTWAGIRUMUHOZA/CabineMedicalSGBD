@@ -21,6 +21,7 @@ LES PROPOSITIONS DE L'ÉNONCÉ
 
 
 ● Un Médecin est consulté par un Patient
+
 ● L’acte médical est crée suite à une consultation
 ● l’Acte médical possède un tarif
 ● Liste_Tarif répertorie les tarifs
